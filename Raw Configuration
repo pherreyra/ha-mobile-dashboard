@@ -13,7 +13,7 @@ views:
                 conditions:
                   - condition: user
                     users:
-                      - f1b4cc553c6c4baa8db0021410e04379
+                      - [UUID]
                 card:
                   type: custom:mushroom-title-card
                   title: Hi, {{ user }}!
@@ -36,7 +36,7 @@ views:
                 conditions:
                   - condition: user
                     users:
-                      - 877b887e302249848546817086a0baa5
+                      - [UUID]
                 card:
                   type: custom:mushroom-title-card
                   title: Hi, {{ user }}!
