@@ -17,4 +17,4 @@ Raw configuration code of my one-page mobile dashboard.
 * moralmunky/[**Home-Assistant-Mail-And-Packages**](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages) for the mail cards
 
 ## Demo
-![demo](https://imgur.com/HCo5Z2m)
+[Imgur](https://i.imgur.com/HCo5Z2m.gif)
