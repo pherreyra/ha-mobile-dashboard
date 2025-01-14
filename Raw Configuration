@@ -2009,7 +2009,7 @@ views:
                         state_not: playing
                     card:
                       type: custom:plex-meets-homeassistant
-                      token: 29NxbswCGf3hR2YMPD4-
+                      token: [TOKEN]-
                       ip: [LOCAL IP]
                       port: '32400'
                       libraryName: Last Added
