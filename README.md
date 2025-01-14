@@ -15,6 +15,3 @@ Raw configuration code of my one-page mobile dashboard.
 * totaldebug/[**atomic-calendar-revive**](https://github.com/totaldebug/atomic-calendar-revive) for the calendar card
 * phrz/[**lg-washer-dryer-card**](https://github.com/phrz/lg-washer-dryer-card) for the washer/dryer cards
 * moralmunky/[**Home-Assistant-Mail-And-Packages**](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages) for the mail cards
-
-## Demo
-[Imgur](https://i.imgur.com/HCo5Z2m.gif)
