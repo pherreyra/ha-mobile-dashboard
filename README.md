@@ -1,6 +1,6 @@
 # ha-mobile-dashboard
 ## Summary
-Raw configuration code of my one-page mobile dashboard. Below are some screenshots to show the current look of the dashboard.
+Raw configuration code of my one-page mobile dashboard.
 
 ## Custom Cards List
 
@@ -15,3 +15,6 @@ Raw configuration code of my one-page mobile dashboard. Below are some screensho
 * totaldebug/[**atomic-calendar-revive**](https://github.com/totaldebug/atomic-calendar-revive) for the calendar card
 * phrz/[**lg-washer-dryer-card**](https://github.com/phrz/lg-washer-dryer-card) for the washer/dryer cards
 * moralmunky/[**Home-Assistant-Mail-And-Packages**](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages) for the mail cards
+
+## Demo
+![demo](https://i.imgur.com/HCo5Z2m.gif)
